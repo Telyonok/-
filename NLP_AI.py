@@ -1,7 +1,4 @@
-import asyncio
-
 import httpx
-import requests
 
 from settings import settings
 
